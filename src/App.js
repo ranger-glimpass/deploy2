@@ -2,7 +2,7 @@
 
 import React from 'react';
 import './App.css';
-import Compass from './Compass';
+import Compass from './components/Compass';
 
 function App() {
     return (
