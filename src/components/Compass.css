@@ -59,11 +59,21 @@
     top: 50%;
     transform: translateY(-50%);
 }
-/* .compass-image {
+ .compass-image {
     transform: rotate(0deg);
     transition: transform 0.3s ease;
 }
-
+/*
 #needle {
     transform: rotate(45deg); 
 } */
+
+
+
+.navigation-arrow {
+    width: 10px;
+    height: 13px;
+    align-self: center;
+}
+
+/* If you have additional CSS for the compass SVG, add it here */
