@@ -4,14 +4,8 @@
     </defs>
     <!-- Fixed Center Needle -->
     <circle class="a" cx="24" cy="23.88" r="3.5"/>
-<!-- <line class="a" x1="36.45" y1="11.42" x2="24.15" y2="20.38"/>
-        <line class="a" x1="36.45" y1="11.42" x2="27.49" y2="23.73"/>
-        <line class="a" x1="11.54" y1="36.34" x2="23.84" y2="27.38"/>
-        <line class="a" x1="11.54" y1="36.34" x2="20.5" y2="24.04"/> -->
-    <!-- Rotating group -->
     <g id="rotatingPart">
         <path class="a" d="M24,45.5A21.5,21.5,0,1,1,45.5,24,21.51,21.51,0,0,1,24,45.5Z"/>
-        
         <!-- N, E, W, S labels -->
         <text x="24" y="6" font-family="Arial" font-weight= "bold" font-size="3" text-anchor="middle" fill="#000">N</text>
         <text x="42" y="24" font-family="Arial" font-weight= "bold" font-size="3" text-anchor="middle" fill="#000">E</text>
