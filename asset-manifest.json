@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/deploy2/static/css/main.bb7dce45.css",
-    "main.js": "/deploy2/static/js/main.ee857ed0.js",
+    "main.css": "/deploy2/static/css/main.5ad8f554.css",
+    "main.js": "/deploy2/static/js/main.4b560ec0.js",
     "static/js/787.6d2ac93a.chunk.js": "/deploy2/static/js/787.6d2ac93a.chunk.js",
-    "static/media/compass.svg": "/deploy2/static/media/compass.33e796237e7b56645c7d5f8468bfe549.svg",
+    "static/media/compass.svg": "/deploy2/static/media/compass.0ab2cdaf080db5303aebbaf43a8f7703.svg",
     "index.html": "/deploy2/index.html",
-    "main.bb7dce45.css.map": "/deploy2/static/css/main.bb7dce45.css.map",
-    "main.ee857ed0.js.map": "/deploy2/static/js/main.ee857ed0.js.map",
+    "main.5ad8f554.css.map": "/deploy2/static/css/main.5ad8f554.css.map",
+    "main.4b560ec0.js.map": "/deploy2/static/js/main.4b560ec0.js.map",
     "787.6d2ac93a.chunk.js.map": "/deploy2/static/js/787.6d2ac93a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb7dce45.css",
-    "static/js/main.ee857ed0.js"
+    "static/css/main.5ad8f554.css",
+    "static/js/main.4b560ec0.js"
   ]
 }
